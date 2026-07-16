@@ -36,7 +36,7 @@ This repository demonstrates the complete ASIC implementation of the open-source
 
 # OpenLane RTL-to-GDSII Flow
 
-The implementation follows the standard OpenLane ASIC flow.
+The PicoRV32 processor was implemented using the OpenLane RTL-to-GDSII flow. The resulting design databases from each major implementation stage were visualized using KLayout.
 
 ## Flow Diagram
 
