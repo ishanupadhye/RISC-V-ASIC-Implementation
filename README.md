@@ -114,7 +114,11 @@ RISC-V-ASIC-Implementation
 │
 └── reports
     ├── openlane
-    └── cadence
+    |    └── README.md
+    ├── cadence
+    |    └── README.md
+    └── observations
+         └── README.md
 ```
 
 ---
